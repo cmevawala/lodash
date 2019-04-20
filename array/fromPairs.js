@@ -1,0 +1,4 @@
+var fromPairs = function (array) {
+
+    
+}
